@@ -1,0 +1,6 @@
+[submodule "time-tracking-rest"]
+	path = time-tracking-rest
+	url = git@github.com:gleifvo/time-tracking-rest.git
+[submodule "time-tracking-client"]
+	path = time-tracking-client
+	url = git@github.com:gleifvo/time-tracking-client.git
